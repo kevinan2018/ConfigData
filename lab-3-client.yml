@@ -1,3 +1,2 @@
-provider: git
----
+provider: "git"
 lucky-word: "Serendipity"
