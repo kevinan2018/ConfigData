@@ -1,2 +1,5 @@
 provider: "git"
+---
+spring:
+  profiles: northamerica
 lucky-word: "Irish"
